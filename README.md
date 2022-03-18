@@ -1,6 +1,6 @@
 # CRYPTO_LOCKER
 ENCRYPT-DECRYPT
-# INJECTOR OpenSource
+# INJECTOR_Open-Source
 * Visual Basic Script
 * Javascript
 * HTML Application
